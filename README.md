@@ -5,4 +5,6 @@ sudo nano /etc/ssh/sshd_config
 sudo service ssh restart
 sudo service ssh status
 ip a
+*msuk ke command prompt*
+ssh uname@ip linux
 
